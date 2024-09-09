@@ -82,7 +82,7 @@ o=1
 
 '''While que se encargara de llamar a funcion generate_sorted_list y data_sort para escribir en un archivo llamado "data_sorted.txt"(dataset)
 20 listas ordenadas ascendentemente de distinto tamaño'''
-while i<20: #hasta tamaño 1 millon, por cada lista se hacen 4 tiempos
+while i<20: 
     size=lista[i]
     data_sort(archivo,generate_sorted_list(size))
     i+=1
@@ -98,7 +98,7 @@ i=0
 '''While que se encargara de llamar a funcion generate_sorted_list y data_sort para escribir en un archivo llamado "data_sort_random.txt"(dataset)
 20 listas con elementos aleatorios, se intercalan, es decir, primero se imprime una lista con elementos aleatorios positivos y luego una 
 con elementos aleatorios positivos y negativos y asi seguiria la secuencia hasta escribir 20 listas en total de distinto tamaño'''
-while i<20: #hasta tamaño 1 millon, por cada lista se hacen 4 tiempos
+while i<20: 
     size=lista[i]
     i+=1
     data_sort(archivo,generate_random_list(size))
@@ -117,7 +117,7 @@ o=1
 
 '''While que se encargara de llamar a funcion generate_sorted_list y data_sort para escribir en un archivo llamado "data_sort_reversed.txt"(dataset)
 20 listas ordenadas descendentemente de distinto tamaño'''
-while i<20: #hasta tamaño 1 millon, por cada lista se hacen 4 tiempos
+while i<20: 
     size = lista[i]
     data_sort(archivo,generate_reversed_list(size))
     i+=1
@@ -133,7 +133,7 @@ i=0
 
 '''While que se encargara de llamar a funcion generate_sorted_list y data_sort para escribir en un archivo llamado "data_sort_parcial.txt"(dataset)
 20 listas con la mitad izquierda ordenadas y la mitad derecha desordenadas, cada una de distinto tamaño'''
-while i<20: #hasta tamaño 1 millon, por cada lista se hacen 4 tiempos
+while i<20: 
     size = lista[i]
     data_sort(archivo,generate_partially_sorted_list(size))
     i+=1
