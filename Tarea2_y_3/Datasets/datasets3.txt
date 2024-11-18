@@ -1,0 +1,60 @@
+10 3
+jjggggllll
+hqw
+
+9 9
+nnnoxxxee
+qjjjjkkkr
+
+6 15
+kkkjil
+vvillllllkkkkkk
+
+8 5
+rddhmmmm
+uuzar
+
+8 14
+fffkkkkk
+vyyyyyyqbbbbbb
+
+5 12
+coeff
+bhhhhhllllla
+
+12 10
+ooooqqqjjvvv
+oxxxxiiiia
+
+5 7
+nvqdd
+uvvvvtm
+
+9 13
+ojjkehhhh
+hhhhhhyzwjjjj
+
+15 14
+eeeekkkkoppssss
+rrzzzttaaaaahh
+
+7 11
+tttmlvl
+iullhhhhuuu
+
+9 18
+rrrlllsva
+ooooobbkkkkkkzzzzb
+
+7 15
+bbbyxpb
+hhhhwwwwwbsssee
+
+13 15
+eeeemmmbmgggg
+mxeeeeeextttttt
+
+5 15
+icjaz
+aaaaavvvvvqblll
+

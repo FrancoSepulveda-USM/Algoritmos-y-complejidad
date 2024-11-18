@@ -1,0 +1,111 @@
+CADENAS VACÍAS
+Tamano s1, Cadena 1, Tamano s2, Cadena 2, tiempoDP[ms], tiempoFB[ms]
+0,VACIO,0,VACIO,2.1,0.3
+0,VACIO,4,alih,2.1,0.7
+3,xbw,0,VACIO,2.8,0.7
+0,VACIO,0,VACIO,1.5,0.1
+0,VACIO,10,kudokzxcso,2,0.7
+10,wkhcznaikg,0,VACIO,5,0.9
+0,VACIO,0,VACIO,1.1,0.2
+0,VACIO,13,lnxzlhexfqaxk,13.7,0.8
+13,rafbqhuoeshnx,0,VACIO,2.4,0.8
+0,VACIO,0,VACIO,1.7,0.2
+0,VACIO,11,wquqsvrkzec,4,1.2
+11,nyqdyvnchtz,0,VACIO,2.6,0.9
+0,VACIO,0,VACIO,1,0.5
+0,VACIO,20,oifanoxscvnjqqppnxtm,4.8,4.7
+20,rwbsakndtupdgzdqhwpe,0,VACIO,3.6,1.9
+
+
+CADENAS IDENTICAS
+Tamano s1, Cadena 1, Tamano s2, Cadena 2, tiempoDP[ms], tiempoFB[ms]
+3,pnw,3,pnw,4,0.4
+8,xqfdzmkb,8,xqfdzmkb,9.6,0.5
+7,uesuiyw,7,uesuiyw,7.9,0.6
+8,iuywnopf,8,iuywnopf,8.5,0.5
+7,gucpjlh,7,gucpjlh,11.1,0.4
+10,hjxkdhluik,10,hjxkdhluik,17,0.4
+8,idwjtphb,8,idwjtphb,7.8,0.3
+10,wzfkujyilu,10,wzfkujyilu,13.8,1.2
+9,ineyhsage,9,ineyhsage,11.6,0.9
+12,tpjbvymnfbsf,12,tpjbvymnfbsf,18.9,0.6
+11,eomieauyvoe,11,eomieauyvoe,13,0.6
+12,xrgabrfwwven,12,xrgabrfwwven,16.4,0.7
+12,cqjawwazdnkr,12,cqjawwazdnkr,15.4,0.4
+14,umsrytieoddemf,14,umsrytieoddemf,20.2,0.8
+14,lptojrncntxyuo,14,lptojrncntxyuo,18.2,0.6
+
+
+CADENAS REPETITIVAS
+Tamano s1, Cadena 1, Tamano s2, Cadena 2, tiempoDP[ms], tiempoFB[ms]
+7,kggggjj,9,ppppcwwww,6.8,7938.7
+3,lcy,13,jzzzzzzyyyyyy,5.6,17.5
+9,appppcccc,10,ooooarrrrr,17.9,109633
+11,qqqqqssssyy,4,lumm,6.1,471.1
+7,sfvvvvv,7,gfsssss,5.5,968.6
+8,wunnnnnn,7,uxxxxxv,4.3,2764.9
+15,nnnnnwwwwjjjjjj,11,ggggussssss,9.3,2.51202e+07
+8,uucccccb,8,wccczzzz,6.1,1166
+3,pzh,10,jjjuuuuuuw,4,48.5
+9,xxxxxxzzv,5,jvvcc,4.6,718.2
+9,uuuusyyyy,6,lsssaa,4.5,853.2
+5,ooort,9,cccccckkk,11.1,732
+8,yyypppyy,6,lbhhhh,5.8,1385.6
+10,dkkkkkvvvv,5,cvvvv,5,2
+8,oiiiiiix,4,llsh,3.1,131.6
+
+
+CADENAS DE IGUAL TAMANO
+Tamano s1, Cadena 1, Tamano s2, Cadena 2, tiempoDP[ms], tiempoFB[ms]
+6,jnllux,6,jdnnxr,5.3,102.1
+3,umz,3,umz,2.3,0.3
+8,fplocwmj,8,cftiksln,7.5,5426.7
+5,ansva,5,ansvh,6.8,16
+4,cufs,4,hzuw,3.7,10.8
+8,lhruzmfd,8,llouomfg,8.9,1392.8
+10,tekyfyehdn,10,jrwmjralvy,10,224196
+7,jwbwjhq,7,xpwwjhd,7,224.7
+10,wmiogrlqgv,10,shkdicyacm,10.5,174634
+7,pwmjhys,7,pwmjhys,7.1,0.6
+8,zbywisrl,8,tvconktq,7.2,8041.8
+9,xqygrtslc,9,xxygrtslc,10.8,2.1
+9,gmcfjxblr,9,cesnxdsoz,9.8,24926.6
+12,bglizsegdxcg,12,mgljqoeydxhg,12.1,200586
+
+
+CADENAS DE DISTINTO TAMANO
+Tamano s1, Cadena 1, Tamano s2, Cadena 2, tiempoDP[ms], tiempoFB[ms]
+5,crtir,6,lskqyd,6.9,203.3
+2,kj,3,kjf,3.8,2.4
+4,rtix,7,rlmfzvo,5.8,69.5
+5,lbptk,8,lbpgkhno,6.9,213.3
+4,qwst,4,ddpn,4.4,15
+4,enki,0,VACIO,4.5,0.4
+8,oviextou,10,qsbzpeupxd,9.6,24387.2
+10,onvoqigvme,5,onvoq,8.1,330.4
+6,cegicu,6,wsfmia,7.4,332.2
+10,fanhfywzlu,6,fknkfy,12.7,1955.6
+12,uwqzcdkhjtyj,10,yomguqtptu,13.1,500432
+9,cazutlkru,11,cszuclkgtuz,12.4,22743
+12,kmlzumqvxlfx,9,ahszpmljv,12.7,153662
+9,zczbfvtxh,11,zpgbfbtasut,9.6,37132.8
+
+
+CADENAS CON TRANSPOSICIONES
+Tamano s1, Cadena 1, Tamano s2, Cadena 2, tiempoDP[ms], tiempoFB[ms]
+6,qitdme,6,iqtdme,7,1.5
+6,tfohxt,6,tsfkhf,4.8,125.7
+5,uwrle,7,uwrlved,6,65.7
+8,liyvrobw,8,liyorvbw,8.2,35.5
+8,iockkljd,8,ixkojkld,9.7,165.9
+8,wungbugv,7,uutgbdg,6.5,437.7
+8,rdzinchr,8,zrdincrh,8.7,335.8
+4,xvci,4,fcvi,4.4,2.6
+4,mkhl,7,mkhpudx,5.1,44.7
+10,zwpgugqymq,10,wzgpguqyqm,10.6,2822.1
+9,hvrqkkaxp,9,hrvqkasxp,9.5,141.6
+7,pohdddg,9,ozoeddxkg,6.5,198.3
+10,mjmgoiivna,10,jmmoigivna,9.2,24.5
+10,dbstmtascn,10,dbtstmsanc,9.4,3153.5
+6,zehzhv,4,ezzh,7,9.9
+
